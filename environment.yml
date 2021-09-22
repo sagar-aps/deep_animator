@@ -16,4 +16,6 @@ dependencies:
 - pip
 - tqdm
 - fire
+- ffmpeg==1.4
+- fastscript
 - ffmpeg
